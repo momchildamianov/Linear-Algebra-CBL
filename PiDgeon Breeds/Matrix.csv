@@ -1,0 +1,11 @@
+page,columbidae,domestic pigeon,passenger pigeon,dodo,obsolescence,telegraph,pigeon post,vacuum tubes,flag semaphore,homing pigeon
+columbidae,0,1,1,1,0,0,0,0,0,0
+domestic pigeon,1,0,0,0,0,,,,,1
+passenger pigeon,1,0,0,0,0,,,,,
+dodo,1,0,0,0,0,,,,,
+obsolescence,0,0,0,1,0,,,,,
+telegraph,0,0,0,0,1,0,1,,1,
+pigeon post,0,0,0,0,,1,0,,,1
+vacuum tubes,0,0,0,0,1,,,0,,
+flag semaphore,0,0,0,0,0,1,,,0,
+homing pigeon,0,1,0,0,0,,,,,0
