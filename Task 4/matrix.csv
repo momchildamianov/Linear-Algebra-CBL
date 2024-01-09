@@ -1,0 +1,11 @@
+page,red,green,yellow,orange,brown,white,purple,pink,blue,black
+apple,1,1,1,1,0,0,1,1,0,0
+banana,1,1,1,0,1,1,0,1,1,0
+pepper,1,1,1,1,1,0,1,0,0,1
+pear,1,1,1,0,1,1,0,0,0,1
+watermelon,1,1,1,1,0,1,0,1,0,1
+berry,1,1,0,1,0,0,1,1,1,1
+tomato,1,1,1,1,1,1,1,0,1,0
+kiwi,0,1,1,0,1,1,1,0,0,0
+peach,0,1,1,1,0,1,0,1,0,0
+fig,0,1,1,0,1,0,1,0,0,1
